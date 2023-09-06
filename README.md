@@ -9,7 +9,7 @@
 
 >At the moment, I am retraining at an online university to become a testing engineer.
 
->I am also engaged in self-education: I study Python, practice SQL and API.
+>I am also engaged in self-education: I study HTML, practice SQL and API.
 ## Tools
 >``Jira``, ``Confluence``, ``Excel``, ``Qase.io``, ``Postman``, ``PostgreSQL``,
 ``Miro``, ``Trello``, ``Mockoon``, ``test case``, ``Git``
