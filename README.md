@@ -2,6 +2,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 # Portfolio: testing engineer
 ## About me
 >Hi! My name is Olga. I am a novice tester. In this repository you can get acquainted with my achievements during the training plans.
