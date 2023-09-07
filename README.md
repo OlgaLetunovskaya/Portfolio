@@ -7,9 +7,6 @@
 ## About me
 >Hi! My name is Olga. I am a novice tester. In this repository you can get acquainted with my achievements during the training plans.
 
->At the moment, I am retraining at an online university to become a testing engineer.
-
->I am also engaged in self-education: I study HTML, practice SQL and API.
 ## Tools
 >``Jira``, ``Confluence``, ``Excel``, ``Qase.io``, ``Postman``, ``PostgreSQL``,
 ``Miro``, ``Trello``, ``Mockoon``, ``test case``, ``Git``
