@@ -7,9 +7,16 @@
 ## About me
 >Hi! My name is Olga. I am a novice tester. In this repository you can get acquainted with my achievements during the training plans.
 
+>I fully understand the basics of testing theory, and I also understand the software development process. I am able to work effectively with a large amount of new information and quickly master new concepts and technologies.
+
+I have experience working with Jira and Confluence, and I can effectively use these tools to organize and manage test tasks and documentation. My knowledge of SQL at the level of writing simple queries allows me to test databases.
+
+I also have experience testing the API using Postman. I confidently use this tool to test the functionality and reliability of the API.
+
+I would like to emphasize that I have communication skills that allow me to collaborate with team members. I am ready to work both independently and in a team to achieve common goals and ensure high quality software development.
 ## Tools
 >``Jira``, ``Confluence``, ``Excel``, ``Qase.io``, ``Postman``, ``PostgreSQL``,
-``Miro``, ``Trello``, ``Mockoon``, ``test case``, ``Git``
+``Miro``, ``Trello``, ``Mockoon``, ``test case``, ``Git``, ``Markdown``
 ## Projects
 ### Project 1
 >**Functional testing of the Skypro teacher's personal account**
