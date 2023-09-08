@@ -15,7 +15,7 @@ I also have experience testing the API using Postman. I confidently use this too
 
 I would like to emphasize that I have communication skills that allow me to collaborate with team members. I am ready to work both independently and in a team to achieve common goals and ensure high quality software development.
 ## Tools
-``Jira``, ``Confluence``, ``Excel``, ``Qase.io``, ``Postman``, ``PostgreSQL``, ``Miro``, ``Trello``, ``Mockoon``, ``test case``, ``Git``, ``Markdown``
+``Jira``  ``Confluence``  ``Excel``  ``Qase.io``  ``Postman``  ``PostgreSQL``  ``Miro``  ``Trello``  ``Mockoon``  ``test case``  ``Git``  ``Markdown``
 ## Projects
 ### Project 1
 **Functional testing of the Skypro teacher's personal account**
