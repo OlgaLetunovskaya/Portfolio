@@ -5,27 +5,25 @@
 
 # Portfolio: testing engineer
 ## About me
-Hi! My name is Olga. I am a novice tester. In this repository you can get acquainted with my achievements during the training plans.
+My name is Olga. I am a novice tester and I want to develop in this field.
 
-I fully understand the basics of testing theory, and I also understand the software development process. I am able to work effectively with a large amount of new information and quickly master new concepts and technologies.
+In 2009, she graduated from the Institute of International Trade and Law with a degree in Finance and Credit.
 
-I have experience working with Jira and Confluence, and I can effectively use these tools to organize and manage test tasks and documentation. My knowledge of SQL at the level of writing simple queries allows me to test databases.
+At the moment, I am studying at the largest online school in Russia, Skyeng (SkyPro direction), where I get practical testing experience. 
 
-I also have experience testing the API using Postman. I confidently use this tool to test the functionality and reliability of the API.
+I know functional, non-functional testing, how to properly compile test documentation, and I am excellent at applying test design techniques. 
 
-I would like to emphasize that I have communication skills that allow me to collaborate with team members. I am ready to work both independently and in a team to achieve common goals and ensure high quality software development.
-## Tools
-``Jira``  ``Confluence``  ``Excel``  ``Qase.io``  ``Postman``  ``PostgreSQL``  ``Miro``  ``Trello``  ``Mockoon``  ``test case``  ``Git``  ``Markdown``
-## Projects
-### Project 1
-**Functional testing of the Skypro teacher's personal account**
+I own Postman, Jira, Confluence, MySQL, Qase.io and some other programs. I have a certificate in HTML and CSS.
 
-**API Testing**
-### How it was performed
-A test plan for testing was developed and compiled.Then the documentation work was carried out. Checklists and test cases were compiled based on the documentation. The last step of this project was to perform the necessary types of testing with the introduction of test cases into the test case management system and the introduction of identified bugs into the bug tracking system
+In the future, I plan to master Selenium.
 
-### Project 2
-**Testing Report**
-### How it was performed
-All the necessary data were collected as a result of testing and a test report was written based on them
+Among the cases that I solved were the following: functional, regression testing, testing of the Skypro API platform for teachers. Also testing the online store's shopping cart https://shop.mts.ru . Functional testing was performed, API testing was performed, SQL queries were executed.
+
+My previous work experience was associated with the company “Bohemia" LLC. 
+In the ”Bohemian" she held the position of a bartender, whose duties included serving visitors, maintaining primary documentation, working with suppliers, carrying out organizational work for various events. 
+The work required an active lifestyle, extensive knowledge of information, and active communication with both visitors and suppliers. 
+
+I would also like to note that I have such personal qualities as perseverance, attention to detail, learning ability, and an analytical mindset.
+
+
 
