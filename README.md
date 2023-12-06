@@ -3,27 +3,29 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-# Portfolio: testing engineer
-## About me
-My name is Olga. I am a novice tester and I want to develop in this field.
+# Портфолио: начинающий тестировщик
+## Обо мне
+Меня зовут Ольга. Я - начинающий тестировщик и хочу развиваться в этой области.
 
-In 2009, she graduated from the Institute of International Trade and Law with a degree in Finance and Credit.
+В 2009 г окончила Институт Международной торговли и Права по специальности “финансы и кредит”.
+На данный момент прохожу обучение в крупнейшей в России он-лайн школе Skyeng (направление SkyPro), где получаю практический опыт тестирования. 
+Я знаю функциональное, нефункциональное тестирование, как правильно составить тестовую документацию, отлично применяю техники тест- дизайна. 
+Я владею Postman, Jira, Confluence, MySQL, Qase.io и еще некоторыми программами. Есть сертификат HTML & CSS.
+В дальнейшем планирую освоить Selenium. 
 
-At the moment, I am studying at the largest online school in Russia, Skyeng (SkyPro direction), where I get practical testing experience. 
+Среди кейсов, которые решала, были такие: функциональное, регрессионное  тестирование, тестирование API платформы Skypro для преподавателей. 
 
-I know functional, non-functional testing, how to properly compile test documentation, and I am excellent at applying test design techniques. 
+Также тестирование корзины интернет- магазина https://shop.mts.ru. Было проведено функциональное тестирование, API тестирование, были выполнены запросы SQL.
 
-I own Postman, Jira, Confluence, MySQL, Qase.io and some other programs. I have a certificate in HTML and CSS.
+Мой предыдущий опыт работы был связан с компанией ООО “Мариювелирторг”.  В компании занимала должность помощника ювелира, в обязанности входило обработка изделий после литья, ремонтт изделий, изготовление изделий. Работа требовала активного образа жизни, большого знания информации, активной коммуникации с коллегами и с заказчиками. Также хотелось бы отметить, что обладаю такими личными качествами, как усидчивость, внимание к деталям, обучаемость, аналитический склад ума.
 
-In the future, I plan to master Selenium.
+##  Почему решила прийти в тестирование?
+Решила идти в тестирование, т.к. IT постоянно развивается, и спрос на специалистов в этой области постоянно растет. 
 
-Among the cases that I solved were the following: functional, regression testing, testing of the Skypro API platform for teachers. Also testing the online store's shopping cart https://shop.mts.ru . Functional testing was performed, API testing was performed, SQL queries were executed.
+Всегда был интерес к компьютерным технологиям, люблю решать головоломки, решать сложные задачи, также обладаю необходимыми навыками тестировщика, такими как, тщательность и внимательность к деталям, логическое мышление и умение анализировать информацию, умение поставить себя на место пользователя и оценить удобство использования продукта.
 
-My previous work experience was associated with the company “Bohemia" LLC. 
-In the ”Bohemian" she held the position of a bartender, whose duties included serving visitors, maintaining primary documentation, working with suppliers, carrying out organizational work for various events. 
-The work required an active lifestyle, extensive knowledge of information, and active communication with both visitors and suppliers. 
-
-I would also like to note that I have such personal qualities as perseverance, attention to detail, learning ability, and an analytical mindset.
+Самодисциплина и умение придерживаться заданных сроков, готовность к общению с коллегами и исправлению ошибок в команде, готовность к самостоятельной работе и принятие ответственности за свои действия, умение быстро адаптироваться к новому продукту.
+Стремление к улучшению персональных и профессиональных качеств, готовность к изучению и использованию новых технологий, стрессоустойчивость и способность сохранять спокойствие в стрессовых ситуациях.
 
 
 
